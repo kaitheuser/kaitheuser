@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Kai. 👋
 
 
 - 🔭 I’m currently working on or pursuing my Master's Degree in Electrical and Computer Engineering (Intelligent Systems, Robotics, and Control Specialization) at the University of California, San Diego. Besides that, I am seeking and applying for Robotics / Mechanical / Control / Systems Engineering Internships for Summer 2022 in the United States.
