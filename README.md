@@ -5,7 +5,7 @@
 
 - 🌱 I’m interested in learning to be a well-rounded robotics engineer with strong coding and technical skills, and build an app for AR/VR headset.
 
-- 🏸 My favorite hobbies are playing badminton, and building cool stuffs especially robots and wearable tech.
+- 🏸 My favorite hobbies are playing badminton, and building cool stuff especially robots and wearable tech.
 
 - 📫 How to reach me: kctan@ucsd.edu
 - 📱 Mobile Phone   : 614 - 806 - 7342
