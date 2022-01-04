@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kaitheuser/kaitheuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on or pursuing my Master's Degree in Electrical and Computer Engineering (Intelligent Systems, Robotics, and Control Specialization) at the University of California, San Diego. Besides that, I am seeking and applying for Robotics / Mechanical / Control / Systems Engineering Internships for Summer 2022 in the United States.
 
@@ -15,4 +11,4 @@ Here are some ideas to get you started:
 - 📱 Mobile Phone   : 614 - 806 - 7342
 
 - ⚡ Fun fact: I can speak six different languages, which are English, Chinese-Mandarin, Malay, Teochew, Taiwanese, and Cantonese.
--->
+
