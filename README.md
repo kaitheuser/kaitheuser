@@ -1,7 +1,7 @@
 ### Hi there! I'm Kai. 👋
 
 
-- 🔭 I’m currently working on or pursuing my Master's Degree in Electrical and Computer Engineering (Intelligent Systems, Robotics, and Control Specialization) at the University of California, San Diego. Besides that, I am seeking and applying for Robotics / Mechanical / Control / Systems Engineering Internships for Summer 2022 in the United States.
+- 🔭 I’m currently working on or pursuing my Master's Degree in Electrical and Computer Engineering (Intelligent Systems, Robotics, and Control Specialization) at the University of California, San Diego. Besides that, I am seeking and applying for Robotics / Mechanical / Control / Systems / Software / Machine Learning / Computer Vision Engineering Internships for Summer 2022 in the United States.
 
 - 🌱 I’m interested in learning to be a well-rounded robotics engineer with strong coding and technical skills, and build an app for AR/VR headset.
 
